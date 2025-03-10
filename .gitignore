@@ -1,0 +1,12 @@
+.gradio/
+Diabetic_Balanced_Data/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.env
+.vscode/
+.idea/
+wandb
+We3bears.zip
